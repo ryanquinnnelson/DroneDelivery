@@ -489,7 +489,7 @@ If Drone lands on surface while carrying Parcel, then lets go of Parcel, then gr
     +  also include Power Ups to add more battery, so Drone can fly longer
     +  battery visualization will appear at the top of the screen
 -  Power Ups
-    +  invicibility from hazards
+    +  invincibility from hazards
     +  invisibility (go through walls)
 
 -  Additional courses
